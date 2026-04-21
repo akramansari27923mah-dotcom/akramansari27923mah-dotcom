@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Akram Ansari<br><br>💻 MERN Stack Developer  <br>📍 India  <br><br>##  Skills<br>HTML, CSS, JavaScript, React.js, Tailwind CSS  <br>Node.js, Express.js, MongoDB  <br><br>## 📂 Projects<br>🔹 NoteCraft AI – https://notecraftai.vercel.app/  <br>🔹 Nexora AI – https://nexora-ai-nine.vercel.app/login<br>🔹 Notes App – https://notenest-wnaq.onrender.com/  <br>🔹 Portfolio – https://akram-portfolio-c4hv.vercel.app/  <br><br>## 📫 Contact<br>📧 akramansari27923mah@gmail.com  <br><br> Passionate about building real-world web applications
+# Hi 👋, I'm Akram Ansari<br><br>💻 MERN Stack Developer  <br>📍 India  <br><br>##  Skills<br>HTML, CSS, JavaScript, React.js, Tailwind CSS  <br>Node.js, Express.js, MongoDB  <br><br>## 📂 Projects<br>🔹 NoteCraft AI – https://notecraftai.vercel.app/  <br>🔹 Nexora AI – https://nexora-ai-nine.vercel.app/login<br>🔹 Notes App – https://notenest-wnaq.onrender.com/  <br>🔹 Portfolio – https://akramdev.vercel.app/  <br><br>## 📫 Contact<br>📧 akramansari27923mah@gmail.com  <br><br> Passionate about building real-world web applications
 
 
 ## 🌐 Socials:
